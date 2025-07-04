@@ -7,7 +7,7 @@ Testing callouts
 > Lorem ipsum dolor sit amet
 
 > [!tip]
-> tip, hint, important
+> tip
 > Lorem ipsum dolor sit amet
 
 > [!important]
@@ -16,6 +16,10 @@ Testing callouts
 
 > [!warning]
 > warning, caution, attention
+> Lorem ipsum dolor sit amet
+
+> [!caution]
+> caution
 > Lorem ipsum dolor sit amet
 
 ## Not working
@@ -34,6 +38,10 @@ Testing callouts
 
 > [!hint]
 > hint
+> Lorem ipsum dolor sit amet
+
+> [!attention]
+> attention
 > Lorem ipsum dolor sit amet
 
 > [!success]
