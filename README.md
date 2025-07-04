@@ -15,7 +15,7 @@ Testing callouts
 > Lorem ipsum dolor sit amet
 
 > [!warning]
-> warning, caution, attention
+> warning
 > Lorem ipsum dolor sit amet
 
 > [!caution]
